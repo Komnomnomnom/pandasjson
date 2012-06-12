@@ -1,6 +1,7 @@
 *.py[co]
 
 # Packages
+*.so
 *.egg
 *.egg-info
 dist
